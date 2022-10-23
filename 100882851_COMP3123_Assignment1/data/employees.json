@@ -1,0 +1,23 @@
+[
+    {
+        "first_name": "Danny",
+        "last_name": "Nguyen",
+        "email": "danny@gmail.com",
+        "gender": "male",
+        "salary": 10428.50
+    },
+    {
+        "first_name": "Wendy",
+        "last_name": "Tran",
+        "email": "wendy@gmail.com",
+        "gender": "female",
+        "salary": 8482.50
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Nguyen",
+        "email": "michael@gmail.com",
+        "gender": "male",
+        "salary": 9275.50
+    }
+]

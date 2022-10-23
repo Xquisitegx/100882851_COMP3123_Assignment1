@@ -1,0 +1,20 @@
+[
+    {
+        "username": "Danny",
+        "email": "danny@gmail.com",
+        "password": "default",
+        "password_confirmation": "default"
+    },
+    {
+        "username": "Wendy",
+        "email": "wendy@gmail.com",
+        "password": "default",
+        "password_confirmation": "default"
+    },
+    {
+        "username": "Michael",
+        "email": "michael@gmail.com",
+        "password": "default",
+        "password_confirmation": "default"
+    }
+]
